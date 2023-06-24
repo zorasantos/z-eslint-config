@@ -1,8 +1,16 @@
 {
-  "name": "z-eslint-config",
+  "name": "@zorasantos/z-eslint-config",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zorasantos/z-eslint-config"
+  },
+  "bugs": {
+    "url": "https://github.com/zorasantos/z-eslint-config/issues"
+  },
+  "keywords": ["eslint", "code-style", "prettier"],
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.60.0",
     "@typescript-eslint/parser": "^5.60.0",

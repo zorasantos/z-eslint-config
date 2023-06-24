@@ -17,7 +17,7 @@ yarn add eslint z-eslint-config -D
 2. Create a `.eslintrc.json` file extending the config:
 ```
 {
-  "extends": "@rocketseat/eslint-config/node"
+  "extends": "@zorasantos/z-eslint-config/node"
 }
 ```
 
@@ -25,7 +25,7 @@ yarn add eslint z-eslint-config -D
 
 ```
 {
-  "extends": "z-eslint-config/node",
+  "extends": "@zorasantos/z-eslint-config/node",
   "env": {
     "jest": true
   },
